@@ -1,5 +1,4 @@
-# Numpy-and-Pandas-Assignment
-# NumPy and Pandas Assignment – 3
+# NumPy and Pandas Assignment
 
 This repository contains the solutions to the **NumPy and Pandas Assignment** provided in the Machine Learning course. The assignment is divided into two main parts:
 
